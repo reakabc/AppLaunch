@@ -1,7 +1,8 @@
-package com.reakabc.applaunch
+package com.reakabc.applaunch.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.reakabc.applaunch.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
